@@ -16,6 +16,7 @@ Collection of topics i have learned every day
 - [No, Don't mock me](https://www.youtube.com/watch?v=Af4M8GMoxi4) Detailed explation about what should/shouldn't get mocked
 - [Don't test implementation details, it wont help](https://kentcdodds.com/blog/testing-implementation-details)
 - [AssertJs 2018 conf videos](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw)
+- [Tips on mocking with jest](https://goodguydaniel.com/blog/tips-jest-unit-testing/)
 
 ## CSS
 
