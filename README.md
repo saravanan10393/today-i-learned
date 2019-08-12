@@ -19,6 +19,6 @@ Collection of topics i have learned every day
 - [Tips on mocking with jest](https://goodguydaniel.com/blog/tips-jest-unit-testing/)
 
 ## CSS
-
+- [Implementing darkmode](https://web.dev/prefers-color-scheme/)
 
 ## HTML
