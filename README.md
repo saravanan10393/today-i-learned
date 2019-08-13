@@ -8,8 +8,10 @@ Collection of topics i have learned every day
 - [I don't understand Microt-frontend](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9)
 - [Server sent events for pushing data from server to client](https://www.w3.org/TR/eventsource/)
 - [Implementing LRU Cache in Javascript](https://yomguithereal.github.io/posts/lru-cache)
+- [Bigint in js](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
 - #### React
   - [How react hooks works](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
+  
 
 ## Testing
 - [Examples of various secanrios of unit testing using Dom-testing library](https://rafaelquintanilha.com/react-testing-library-common-scenarios/)
@@ -22,3 +24,7 @@ Collection of topics i have learned every day
 - [Implementing darkmode](https://web.dev/prefers-color-scheme/)
 
 ## HTML
+
+
+## Tools
+- [Automatic cursor typing](https://edernclemente.com/plugin/typelighterjs)
