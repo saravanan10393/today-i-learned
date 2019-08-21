@@ -9,6 +9,7 @@ Collection of topics i have learned every day
 - [Server sent events for pushing data from server to client](https://www.w3.org/TR/eventsource/)
 - [Implementing LRU Cache in Javascript](https://yomguithereal.github.io/posts/lru-cache)
 - [Bigint in js](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
+- [Javascript Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.x5c2ndtx0)
 - #### React
   - [How react hooks works](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
   
